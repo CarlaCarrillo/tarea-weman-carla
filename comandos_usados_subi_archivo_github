@@ -1,0 +1,36 @@
+    1  mkdir ejercicioT
+    2  rm ejercicioT/
+    3  mkdir tarea
+    4  touch ejercicioT
+    5  mv ejercicioT tarea
+    6  cd
+    7  cd tarea
+    8  ls
+    9  cd tarea
+   10  mv ../ejercicioT.txt .
+   11  mv ../ejercicioT.txt .tarea
+   12  cat ejercicioT
+   13  exit
+   14  ls
+   15  cd tareaWC
+   16  ls
+   17  ..
+   18  .
+   19  git init
+   20  git clone https://github.com/CarlaCarrillo/tarea-weman-carla.git
+   21  ls
+   22  ls
+   23  cd tarea-weman-carla
+   24  ls
+   25  git status
+   26  git add .
+   27  git commit -m "intento de subir carpeta"
+   28   git config --global user.email "ccarrillo1616@gmail.com"
+   29   git config --global user.name "CarlaCarrillo"
+   30  git status
+   31  git push
+   32  git add .
+   33  git commit -m "segundo intento"
+   34  git push
+   35  history
+   36  history > comandos_usados_subi_archivo_github

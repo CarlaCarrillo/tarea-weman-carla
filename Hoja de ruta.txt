@@ -1,0 +1,10 @@
+1) Separo todo por cajas <div> para poder dar estilo de forma más sencilla más adelante. 
+2)la plantilla que hay que utilizar contiene una imágen hasta arriba, coloco un icono que representará al área ambiental.
+3) La plantilla pide que adicione iconos que funcionarán como link. Adiciono una galería con cuatro íconos, algunos llevarán a sólo ejemplo.com y el de twitter a mi página real de twitter como ejemplo de liks en iconos. 
+4) Les doy estilo a los íconos.
+5) La plantilla también solicita adicionar una tabla, busco como adicionar una tabla y le doy los tamaños y el número de columnas que necesito que aparezcan en la página.
+6) Adiciono todos mis datos a la tabla en forma de texto.
+7) Ajusto el estilo de la tabla.
+8) La plantilla requiere de una imagen donde se encuentre el contenido.
+9) Adiciono una captura de pantalla, pero como comentario me dijeron que mejor lo adicionara como texto y no como imagen.
+10) Doy estilo a la página: cambio colores y tamaños de letras de los encabezados.
